@@ -1,0 +1,87 @@
+2018-01-29 12:44:40  [ main:0 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:4:开始工作！
+2018-01-29 12:44:40  [ main:60 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:3:开始工作！
+2018-01-29 12:44:40  [ main:61 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:2:开始工作！
+2018-01-29 12:44:40  [ main:61 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:1:开始工作！
+2018-01-29 12:44:40  [ main:62 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:0:开始工作！
+2018-01-29 12:47:57  [ main:0 ] - [ INFO ]  extracts:/Users/ye2moe/Movies/橘子/2016/04/2016年4月作品合集/4月封面合集.zip
+2018-01-29 12:47:57  [ main:15 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:4:开始工作！
+2018-01-29 12:47:57  [ main:16 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:3:开始工作！
+2018-01-29 12:47:57  [ main:16 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:2:开始工作！
+2018-01-29 12:47:57  [ main:16 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:1:开始工作！
+2018-01-29 12:47:57  [ main:17 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:0:开始工作！
+2018-01-29 12:48:12  [ main:0 ] - [ INFO ]  extracts:/Users/ye2moe/Movies/橘子/2016/04/2016年4月作品合集/4月封面合集.zip
+2018-01-29 12:48:12  [ main:18 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:4:开始工作！
+2018-01-29 12:48:12  [ main:18 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:3:开始工作！
+2018-01-29 12:48:12  [ main:19 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:2:开始工作！
+2018-01-29 12:48:12  [ main:20 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:1:开始工作！
+2018-01-29 12:48:12  [ main:20 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:0:开始工作！
+2018-01-29 12:50:06  [ main:0 ] - [ INFO ]  ======extracts:/Users/ye2moe/Movies/橘子/2016/04/2016年4月作品合集/4月封面合集.zip====
+2018-01-29 12:50:06  [ main:16 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:4:开始工作！
+2018-01-29 12:50:06  [ main:16 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:3:开始工作！
+2018-01-29 12:50:06  [ main:16 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:2:开始工作！
+2018-01-29 12:50:06  [ main:17 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:1:开始工作！
+2018-01-29 12:50:06  [ main:17 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:0:开始工作！
+2018-01-29 12:52:16  [ main:0 ] - [ INFO ]  ======extracts:/Users/ye2moe/Movies/橘子/2016/04/2016年4月作品合集/4月封面合集.zip======
+2018-01-29 12:52:16  [ main:17 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:4:开始工作！
+2018-01-29 12:52:16  [ main:18 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:3:开始工作！
+2018-01-29 12:52:16  [ main:18 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:2:开始工作！
+2018-01-29 12:52:16  [ main:19 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:1:开始工作！
+2018-01-29 12:52:16  [ main:19 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:0:开始工作！
+2018-01-29 13:26:04  [ main:0 ] - [ INFO ]  Extracting: 4月封面合集/
+2018-01-29 13:26:04  [ main:4 ] - [ INFO ]  Extracting: 4月封面合集/[chippai]Aサイズ クラスメイト Anime Edition 2限目.jpg
+2018-01-29 13:27:37  [ main:0 ] - [ INFO ]  Extracting: 4月封面合集/
+2018-01-29 13:27:37  [ main:4 ] - [ INFO ]  Extracting: 4月封面合集/[chippai]Aサイズ クラスメイト Anime Edition 2限目.jpg
+2018-01-29 13:27:37  [ main:6 ] - [ INFO ]  Extracting: 4月封面合集/[Collaboration Works petit]バカな妹を利口にするのは俺の××だけな件について ミルク大好き!! 御津井芭華編.jpg
+2018-01-29 13:27:37  [ main:8 ] - [ INFO ]  Extracting: 4月封面合集/[EDGE]えなじぃキョーカ!! ヌキサポ編 1巻.jpg
+2018-01-29 13:27:37  [ main:10 ] - [ INFO ]  Extracting: 4月封面合集/[PORO] 鬼父 化ケーション 「小生意気タヌキぽんぽこぽん」.jpg
+2018-01-29 13:27:37  [ main:12 ] - [ INFO ]  Extracting: 4月封面合集/[Queen Bee] SECRET JOURNEY VOL.2.jpg
+2018-01-29 13:27:37  [ main:14 ] - [ INFO ]  Extracting: 4月封面合集/[ばにぃうぉ～か～ ]OVA ましゅまろ☆いもうと☆さっきゅばす☆ ＃2 いもうとと☆ともだちさっきゅばすと☆いもうとさっきゅばす.jpg
+2018-01-29 13:27:37  [ main:17 ] - [ INFO ]  Extracting: 4月封面合集/[ピンクパイナップル] こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION.jpg
+2018-01-29 13:27:37  [ main:20 ] - [ INFO ]  Extracting: 4月封面合集/
+2018-01-29 13:27:37  [ main:20 ] - [ INFO ]  Extracting: 4月封面合集/[chippai]Aサイズ クラスメイト Anime Edition 2限目.jpg
+2018-01-29 13:44:07  [ main:0 ] - [ INFO ]  ======extracts:/Users/ye2moe/Movies/橘子/2016/04/2016年4月作品合集/4月封面合集.zip======
+2018-01-29 13:44:07  [ main:6 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:3:开始工作！
+2018-01-29 13:44:07  [ com.ye2moe.io.util.thread.extra.ExtraThread:3:7 ] - [ INFO ]  Extracting: 4月封面合集/[ばにぃうぉ～か～ ]OVA ましゅまろ☆いもうと☆さっきゅばす☆ ＃2 いもうとと☆ともだちさっきゅばすと☆いもうとさっきゅばす.jpg
+2018-01-29 13:44:07  [ com.ye2moe.io.util.thread.extra.ExtraThread:2:7 ] - [ INFO ]  Extracting: 4月封面合集/[PORO] 鬼父 化ケーション 「小生意気タヌキぽんぽこぽん」.jpg
+2018-01-29 13:44:07  [ main:7 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:2:开始工作！
+2018-01-29 13:44:07  [ main:8 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:1:开始工作！
+2018-01-29 13:44:07  [ com.ye2moe.io.util.thread.extra.ExtraThread:1:8 ] - [ INFO ]  Extracting: 4月封面合集/[Collaboration Works petit]バカな妹を利口にするのは俺の××だけな件について ミルク大好き!! 御津井芭華編.jpg
+2018-01-29 13:44:07  [ com.ye2moe.io.util.thread.extra.ExtraThread:0:8 ] - [ INFO ]  Extracting: 4月封面合集/
+2018-01-29 13:44:07  [ main:8 ] - [ INFO ]  com.ye2moe.io.util.thread.extra.ExtraThread:0:开始工作！
+2018-01-29 14:17:01  [ main:0 ] - [ INFO ]  scan
+2018-01-29 14:17:01  [ main:11 ] - [ INFO ]  allot
+2018-01-29 14:20:38  [ main:0 ] - [ INFO ]  scan
+2018-01-29 14:20:38  [ main:28 ] - [ INFO ]  scan 结果共计：3
+2018-01-29 14:20:38  [ main:28 ] - [ INFO ]  allot
+2018-01-29 14:21:00  [ main:0 ] - [ INFO ]  scan
+2018-01-29 14:21:00  [ main:4 ] - [ INFO ]  scan 结果共计：3
+2018-01-29 14:21:00  [ main:4 ] - [ INFO ]  allot
+2018-01-29 14:21:34  [ main:0 ] - [ INFO ]  scan
+2018-01-29 14:21:34  [ main:3 ] - [ INFO ]  scan 结果共计：3
+2018-01-29 14:21:34  [ main:3 ] - [ INFO ]  allot
+2018-01-29 14:21:34  [ main:4 ] - [ INFO ]  com.ye2moe.io.task.ExtractTask:1:开始工作！
+2018-01-29 14:21:34  [ main:6 ] - [ INFO ]  com.ye2moe.io.task.ExtractTask:2:开始工作！
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:7 ] - [ INFO ]  Extracting: 4月外挂字幕合集/
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:2:7 ] - [ INFO ]  Extracting: 4月作品合集720P (8bit)/
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:13 ] - [ INFO ]  Extracting: 4月外挂字幕合集/[Maho.sub] [Collaboration Works petit]バカな妹を利口にするのは俺の××だけな件について ミルク大好き!! 御津井芭華編.ass
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:2:13 ] - [ INFO ]  Extracting: 4月作品合集720P (8bit)/[Maho.sub] [Collaboration Works petit]バカな妹を利口にするのは俺の××だけな件について ミルク大好き!! 御津井芭華編 [720P x264 AAC].mkv
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:21 ] - [ INFO ]  Extracting: 4月外挂字幕合集/[Maho.sub] [PORO] 鬼父 化ケーション 「小生意気タヌキぽんぽこぽん」.ass
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:30 ] - [ INFO ]  Extracting: 4月外挂字幕合集/[Maho.sub][chippai]Aサイズ クラスメイト Anime Edition 2限目.ass
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:32 ] - [ INFO ]  Extracting: 4月外挂字幕合集/[Maho.sub][EDGE]えなじぃキョーカ!! ヌキサポ編 1巻.ass
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:34 ] - [ INFO ]  Extracting: 4月外挂字幕合集/[Maho.sub][Queen Bee] SECRET JOURNEY VOL.2.ass
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:37 ] - [ INFO ]  Extracting: 4月外挂字幕合集/[Maho.sub][ばにぃうぉ～か～ ]OVA ましゅまろ☆いもうと☆さっきゅばす☆ ＃2 いもうとと☆ともだちさっきゅばすと☆いもうとさっきゅばす.ass
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:40 ] - [ INFO ]  Extracting: 4月外挂字幕合集/[Maho.sub][ピンクパイナップル] こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION.ass
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:44 ] - [ INFO ]  Extracting: 4月封面合集/
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:45 ] - [ INFO ]  Extracting: 4月封面合集/[chippai]Aサイズ クラスメイト Anime Edition 2限目.jpg
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:68 ] - [ INFO ]  Extracting: 4月封面合集/[Collaboration Works petit]バカな妹を利口にするのは俺の××だけな件について ミルク大好き!! 御津井芭華編.jpg
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:90 ] - [ INFO ]  Extracting: 4月封面合集/[EDGE]えなじぃキョーカ!! ヌキサポ編 1巻.jpg
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:108 ] - [ INFO ]  Extracting: 4月封面合集/[PORO] 鬼父 化ケーション 「小生意気タヌキぽんぽこぽん」.jpg
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:127 ] - [ INFO ]  Extracting: 4月封面合集/[Queen Bee] SECRET JOURNEY VOL.2.jpg
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:151 ] - [ INFO ]  Extracting: 4月封面合集/[ばにぃうぉ～か～ ]OVA ましゅまろ☆いもうと☆さっきゅばす☆ ＃2 いもうとと☆ともだちさっきゅばすと☆いもうとさっきゅばす.jpg
+2018-01-29 14:21:34  [ com.ye2moe.io.task.ExtractTask:1:202 ] - [ INFO ]  Extracting: 4月封面合集/[ピンクパイナップル] こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION.jpg
+2018-01-29 14:22:00  [ com.ye2moe.io.task.ExtractTask:2:26057 ] - [ INFO ]  Extracting: 4月作品合集720P (8bit)/[Maho.sub] [PORO] 鬼父 化ケーション 「小生意気タヌキぽんぽこぽん」[720P x264 AAC].mkv
+2018-01-29 14:22:46  [ com.ye2moe.io.task.ExtractTask:2:72818 ] - [ INFO ]  Extracting: 4月作品合集720P (8bit)/[Maho.sub][chippai]Aサイズ クラスメイト Anime Edition 2限目 [720P x264 AAC].mkv
+2018-01-29 14:23:01  [ com.ye2moe.io.task.ExtractTask:2:87131 ] - [ INFO ]  Extracting: 4月作品合集720P (8bit)/[Maho.sub][EDGE]えなじぃキョーカ!! ヌキサポ編 1巻 [720P x264 AAC].mkv
+2018-01-29 14:23:18  [ com.ye2moe.io.task.ExtractTask:2:104643 ] - [ INFO ]  Extracting: 4月作品合集720P (8bit)/[Maho.sub][Queen Bee] SECRET JOURNEY VOL.2 [720P x264 AAC].mkv
+2018-01-29 14:23:38  [ com.ye2moe.io.task.ExtractTask:2:124021 ] - [ INFO ]  Extracting: 4月作品合集720P (8bit)/[Maho.sub][ばにぃうぉ～か～ ]OVA ましゅまろ☆いもうと☆さっきゅばす☆ ＃2 いもうとと☆ともだちさっきゅばすと☆いもうとさっきゅばす [720P x264 AAC].mkv
+2018-01-29 14:23:59  [ com.ye2moe.io.task.ExtractTask:2:145799 ] - [ INFO ]  Extracting: 4月作品合集720P (8bit)/[Maho.sub][ピンクパイナップル] こいなか -小田舎で初恋×中出しセクシャルライフ- THE ANIMATION[720P x264 AAC].mkv
